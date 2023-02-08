@@ -1,0 +1,190 @@
+* {
+  margin: 0;
+  padding: auto;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+  background-image: url(../images/donation4.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.main-element {
+  margin: 350px 350px;
+}
+.main-tag {
+  color: #ffffff;
+  text-align: center;
+  justify-content: center;
+  font-size: 70px;
+}
+.main-description {
+  color: white;
+  text-align: center;
+  justify-content: center;
+  font-size: 22px;
+}
+.btn-primary {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 24px;
+  border: 0;
+  padding: 18px 35px;
+  /* height: 64px; */
+  border-radius: 5px;
+  background-color: #b64000;
+  text-align: center;
+  margin-left: 370px;
+  margin-top: 10px;
+}
+.sec-tag {
+  color: #000000;
+  text-align: center;
+  justify-content: center;
+  font-size: 50px;
+  padding-top: 150px;
+}
+.sec-description {
+  color: rgb(95, 95, 95);
+  text-align: center;
+  justify-content: center;
+  font-size: 22px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+.amount {
+  display: flex;
+  gap: 30px;
+  font-size: 25px;
+  font-weight: 600;
+  margin-left: 520px;
+  margin-right: 550px;
+}
+.amount p {
+  color: #616161;
+  border: 3px solid rgb(255, 255, 255);
+  padding: 22px 8px;
+  font-size: 1.2em;
+}
+.tht {
+  color: red;
+  border: 4px solid red;
+  padding: 22px 8px;
+  border-radius: 5px;
+  background-color: #ffab7e;
+}
+.unike-amount p {
+  text-align: center;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  font-size: 25px;
+  color: #616161;
+}
+.btn {
+  margin-left: 370px;
+}
+.plan {
+}
+.plan-title {
+  color: #000000;
+  text-align: center;
+  justify-content: center;
+  font-size: 50px;
+  padding-top: 150px;
+}
+.plan-description {
+  color: rgb(95, 95, 95);
+  text-align: center;
+  justify-content: center;
+  font-size: 22px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+.plan-container {
+  display: flex;
+  gap: 24px;
+}
+.plan {
+  background: #ffbaba;
+  box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+  border-radius: 5px;
+  padding: 60px 30px 30px 30px;
+}
+.plans-title {
+  font-weight: 700;
+  font-size: 20px;
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+.plans-description {
+  color: #757575;
+}
+#plan {
+  background: #ffc4a5;
+}
+#plans {
+  background: #a8efff;
+}
+#planss {
+  background: #b89cff;
+}
+.total-donation {
+  padding: 0px 40px;
+  padding-bottom: 30px;
+}
+.story1-containter {
+  display: flex;
+  padding: 50px 60px;
+}
+.story1-title {
+  font-size: 60px;
+}
+.story1-description {
+  font-size: 20px;
+}
+.story1-img {
+  border-radius: 10px;
+}
+#mail {
+  align-items: center;
+}
+.name-mail {
+  width: 461px;
+  height: 40px;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 300px;
+
+}
+.butt {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 24px;
+  border: 0;
+  padding: 8px 3px;
+  /* height: 64px; */
+  border-radius: 5px;
+  background-color: #b64000;
+  text-align: center;
+  /* margin-left: 20px; */
+  margin-top: 30px;
+}
+.back-padding{
+    padding: 0px;
+    background: #f8ffba;
+}
+#butt{
+    padding: 0px 250px;
+    padding-bottom: 90px;
+}
+#cntr{
+    text-align: center;
+    padding-bottom: 5px;
+    color: azure;
+}
+.footer{
+    background-color: #757575;
+}
+.bg{
+    padding: 60px 0px;
+}
